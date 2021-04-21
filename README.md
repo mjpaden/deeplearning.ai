@@ -2,7 +2,7 @@
 Completed Course Assignments for deeplearning.ai
 
 ## Courses
-### Deep Learning Specializiation (c. 2019)
+### [Deep Learning Specializiation](https://www.deeplearning.ai/program/deep-learning-specialization/) (c. 2019)
 1. **Neural Networks and Deep Learning** - Review of basic neural network structure with NumPy
 2. **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** - Weight initialization, L2 regularization, dropout, testing backpropagation with gradient checking, optimizers, and hyperparameter selection, introduction to TensorFlow v1.x
 3. **Structuring Machine Learning Projects (no coding assignments)** - Determining performance metrics and goal values, training/validation/test set selection and splitting, determining most impactful next steps for improvement (e.g., data quality, quantity, model complexity)
