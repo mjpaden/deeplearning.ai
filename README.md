@@ -1,5 +1,5 @@
 # deeplearning.ai
-Completed Course Assignments for deeplearning.ai
+Completed Course Projects for deeplearning.ai
 
 ## Courses
 ### [Deep Learning Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/) (c. 2019)
