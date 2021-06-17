@@ -15,6 +15,11 @@ Completed Course Projects for deeplearning.ai
 3. **NLP with Sequence Models** - Sentiment analysis with a neural network (with Google Brain's trax ML library), generating fake Shakespeare with GRUs, evaluating perplexity, named-entity recognition with LSTMs, and one-shot learning to recognize duplicate questions with Siamese networks
 4. **NLP with Attention Models** - Neural machine translation with RNNs, scaled dot-product attention, and Minimum Bayes Risk decoding; summarization with a transformer model and causal attention; question-answering with BERT and subsequently T5; and chatbot development with the efficient attention of the Reformer language model
 
+### [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/) (c. 2021)
+1. **Introduction to Machine Learning in Production** (ungraded labs only) - Deployment patterns, monitoring ML systems and data pipelines, prioritizing vectors of improvement, and handling label ambiguity.
+2. **Data Lifecycle in Production** - Collecting and managing data for use in production ML models. Fairness in collection; identifying and responding to data and concept change; TensorFlow tools ([TFX](https://www.tensorflow.org/tfx) & [TFDV](https://www.tensorflow.org/tfx/data_validation/get_started)) for schema inference, data validation, anomaly detection, and feature engineering; feature selection algorithms; versioning datasets with ML metadata; improving performance with weak supervision, active learning, and data augmentation.
+_The remaining two courses of this specialization are still in development at deeplearning.ai._
+
 The general structure of these assignments involved completing portions of Python functions inside Jupyter Notebooks. I adapted some of the original non-assignment code to allow them to run in my local environment. The courses also included written tests which are not provided here.
 
 Some large model files and datasets required for re-running select notebooks are unfortunately not included in this repository due to file size limits, but I may be able to help locate them elsewhere if needed.
