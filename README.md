@@ -18,6 +18,7 @@ Completed Course Projects for deeplearning.ai
 ### [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/) (c. 2021)
 1. **Introduction to Machine Learning in Production** (ungraded labs only) - Deployment patterns, monitoring ML systems and data pipelines, prioritizing vectors of improvement, and handling label ambiguity.
 2. **Data Lifecycle in Production** - Collecting and managing data for use in production ML models. Fairness in collection; identifying and responding to data and concept change; TensorFlow tools ([TFX](https://www.tensorflow.org/tfx) & [TFDV](https://www.tensorflow.org/tfx/data_validation/get_started)) for schema inference, data validation, anomaly detection, and feature engineering; feature selection algorithms; versioning datasets with ML metadata; improving performance with weak supervision, active learning, and data augmentation.
+
 _The remaining two courses of this specialization are still in development at deeplearning.ai._
 
 The general structure of these assignments involved completing portions of Python functions inside Jupyter Notebooks. I adapted some of the original non-assignment code to allow them to run in my local environment. The courses also included written tests which are not provided here.
